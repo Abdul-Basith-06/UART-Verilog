@@ -118,6 +118,3 @@ gtkwave uart.vcd
 
 ---
 
-## License
-
-MIT — feel free to use and modify.
